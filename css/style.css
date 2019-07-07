@@ -14,6 +14,7 @@
     .head .head__primary {height: 70px}
     .country_details {bottom: 55px;}
     h4.global-program-str {font-size: 15px;padding-left: 15px}
+    .list .list__container .list__outer{height: calc(100% - 60px);}
  }
 @media only screen and (min-width: 960px){
       .map {height: calc(100% - 200px); height:500px}
