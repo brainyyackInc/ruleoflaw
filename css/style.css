@@ -1,11 +1,11 @@
 /* css file */
 @media only screen and (min-width: 300px){
-    .map {/*height: calc(100% - 170px);*/height:280px}
+    .map, .list .list__container .list__outer {/*height: calc(100% - 170px);*/height:280px}
     .sec5-bg-grey{margin-bottom: 20px}
     h4.global-program-str { font-size: 10px;padding-left: 15px}
 }
 @media only screen and (min-width: 400px){
-    .map {/*height: calc(100% - 180px);*/height:300px}
+    .map, .list .list__container .list__outer {/*height: calc(100% - 180px);*/height:300px}
     h4.global-program-str {font-size: 15px; padding-left: 15px}
 }
 @media only screen and (min-width: 700px){
